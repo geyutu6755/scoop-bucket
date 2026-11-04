@@ -1,17 +1,17 @@
 {
     "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Test what users actually download: verify release artifacts run on the target OS.",
     "homepage": "https://github.com/geyutu6755/shipsmoke",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/geyutu6755/shipsmoke/releases/download/v1.0.3/shipsmoke_windows_amd64.zip",
-            "hash": "cad2da31b4afeaa9702c7684f0427c3ff90eec0159b513085751891273473779"
+            "url": "https://github.com/geyutu6755/shipsmoke/releases/download/v1.0.4/shipsmoke_windows_amd64.zip",
+            "hash": "340a87311517237df0786c33ab2a622a421755dd67bb5c01acdf6b6533a50cd4"
         },
         "arm64": {
-            "url": "https://github.com/geyutu6755/shipsmoke/releases/download/v1.0.3/shipsmoke_windows_arm64.zip",
-            "hash": "e21211317a149e7a999b2e07fad90196e8e6074cecdd17d1a52dc4d0f8b2f188"
+            "url": "https://github.com/geyutu6755/shipsmoke/releases/download/v1.0.4/shipsmoke_windows_arm64.zip",
+            "hash": "e781d715994d663b088d4d2f3857d2d5bd236de679e975fd7c439308a779ee81"
         }
     },
     "bin": "shipsmoke.exe",
